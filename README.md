@@ -16,5 +16,5 @@
 <img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen1.png" alt="drawing" width="250"/><img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen2.png" alt="drawing" width="250"/><img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen3.png" alt="drawing" width="250"/><img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen4.png" alt="drawing" width="250"/><img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen5.png" alt="drawing" width="250"/><img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen6.png" alt="drawing" width="250"/>
 
 <a href="#" target="_blank"> 
-<img src="" width="200" alt="go to cinemator">
+<img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/appstore.png" width="200" alt="go to cinemator">
 </a>
