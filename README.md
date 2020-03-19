@@ -1,4 +1,7 @@
 ![alt text](https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/cinemator-banner.png)
+
+Check website for more info: https://cinemator.us/
+
 ### Download on App Store (Free)
 <a href="#" target="_blank"> 
 <img src="https://www.seekpng.com/png/full/223-2231228_app-store-apple-transprent-download-on-apple-store.png" width="150" alt="go to cinemator">
@@ -28,3 +31,10 @@
 </a>
 
 Note: This product uses TMDb API but is not endorsed or certified by TMDB.
+
+#### https://newsapi.org//
+<a href="https://developers.themoviedb.org/3/getting-started/introduction/" target="_blank"> 
+<img src="https://avatars2.githubusercontent.com/u/32527401?s=400&u=13fbe5bcb95b6762920ae463006e692b695be715&v=4" width="150" alt="go to cinemator">
+</a>
+
+_© 2020 Cinemator | Version 1.0_
