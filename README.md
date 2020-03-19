@@ -19,3 +19,12 @@
 <a href="#" target="_blank"> 
 <img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/appstore.png" width="150" alt="go to cinemator">
 </a>
+
+## Licenses
+
+#### https://www.themoviedb.org/
+<a href="https://developers.themoviedb.org/3/getting-started/introduction/" target="_blank"> 
+<img src="https://www.themoviedb.org/assets/1/v4/logos/293x302-powered-by-square-green-3ee4814bb59d8260d51efdd7c124383540fc04ca27d23eaea3a8c87bfa0f388d.png" width="150" alt="go to cinemator">
+</a>
+
+Note: This product uses TMDb API but is not endorsed or certified by TMDB.
