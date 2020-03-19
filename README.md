@@ -13,9 +13,4 @@
 + Share your movies everywhere.
 
 ### Screenshots
-<img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen1.png" alt="drawing" width="250"/>
-<img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen2.png" alt="drawing" width="250"/>
-<img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen3.png" alt="drawing" width="250"/>
-<img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen4.png" alt="drawing" width="250"/>
-<img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen5.png" alt="drawing" width="250"/>
-<img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen6.png" alt="drawing" width="250"/>
+<img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen1.png" alt="drawing" width="250"/><img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen2.png" alt="drawing" width="250"/><img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen3.png" alt="drawing" width="250"/><img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen4.png" alt="drawing" width="250"/><img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen5.png" alt="drawing" width="250"/><img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen6.png" alt="drawing" width="250"/>
