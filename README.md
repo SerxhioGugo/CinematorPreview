@@ -7,7 +7,7 @@ Check website for more info: https://cinemator.us/
 <img src="https://www.seekpng.com/png/full/223-2231228_app-store-apple-transprent-download-on-apple-store.png" width="150" alt="go to cinemator">
 </a>
 
-### _Cinemator is the best way to discover new movies. With beautiful edge-to-edge posters and trailers, cast profiles, movies from your chosen actor, News from the entertainment world and more._
+### Cinemator is the best way to discover new movies. With beautiful edge-to-edge posters and trailers, cast profiles, movies from your chosen actor, News from the entertainment world and more.
 
 
 + Beautiful design for iOS mobiles.
