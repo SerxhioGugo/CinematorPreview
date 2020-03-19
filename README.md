@@ -1,4 +1,8 @@
 ![alt text](https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/cinemator-banner.png)
+### Download on App Store (Free)
+<a href="#" target="_blank"> 
+<img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/appstore.png" width="150" alt="go to cinemator">
+</a>
 
 ### _Cinemator is the best way to discover new movies. With beautiful edge-to-edge posters and trailers, cast profiles, movies from your chosen actor, News from the entertainment world and more._
 
@@ -15,10 +19,6 @@
 ### Screenshots
 <img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen1.png" alt="drawing" width="250"/><img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen2.png" alt="drawing" width="250"/><img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen3.png" alt="drawing" width="250"/><img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen4.png" alt="drawing" width="250"/><img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen5.png" alt="drawing" width="250"/><img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen6.png" alt="drawing" width="250"/>
 
-### Download on App Store (Free)
-<a href="#" target="_blank"> 
-<img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/appstore.png" width="150" alt="go to cinemator">
-</a>
 
 ## Licenses
 
