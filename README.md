@@ -12,4 +12,10 @@
 + Read the latest movie/entertainment related news by some of the best news sources such as Joblo, CinemaBlend, Roger Ebert.
 + Share your movies everywhere.
 
-<img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/cinemator-banner.png" alt="drawing" width="250"/> <img
+### Screenshots
+<img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen1.png" alt="drawing" width="250"/>
+<img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen2.png" alt="drawing" width="250"/>
+<img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen3.png" alt="drawing" width="250"/>
+<img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen4.png" alt="drawing" width="250"/>
+<img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen5.png" alt="drawing" width="250"/>
+<img src="https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/screen6.png" alt="drawing" width="250"/>
