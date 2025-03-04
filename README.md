@@ -1,7 +1,5 @@
 ![alt text](https://github.com/SerxhioGugo/CinematorPreview/blob/master/img/cinemator-banner.png)
 
-Check website for more info: https://cinemator.us/
-
 ### Download on App Store (Free)
 <a href="https://apps.apple.com/us/app/cinemator/id1502196280" target="_blank"> 
 <img src="https://www.seekpng.com/png/full/223-2231228_app-store-apple-transprent-download-on-apple-store.png" width="150" alt="go to cinemator">
